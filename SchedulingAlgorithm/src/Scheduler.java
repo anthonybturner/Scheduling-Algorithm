@@ -23,7 +23,7 @@ public class Scheduler {
 	private boolean isRunning;
 	
 	/**
-	 * Constructs a new Short-Term Scheduler
+	 * Constructs a new FCFS Scheduler
 	 */
 	public Scheduler(){
 		
